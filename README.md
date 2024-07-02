@@ -1,6 +1,3 @@
-Aquí tienes un ejemplo de `README.md` para tu proyecto de Turismo:
-
-```markdown
 # Turismo EV3 DUOC
 
 Este proyecto es una aplicación web para una empresa de turismo extremo en Chile. Está desarrollada utilizando Flask, Bootstrap 4 y MariaDB. La aplicación permite a los usuarios registrarse, enviar sugerencias o quejas, y ver un catálogo de deportes de aventura. Los administradores pueden ver y gestionar los usuarios y las sugerencias.
